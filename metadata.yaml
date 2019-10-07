@@ -1,0 +1,30 @@
+_repo: The-Camel-and-the-Needle-s-Eye_60379
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ponsonby, Arthur Ponsonby, Baron
+    aliases:
+    - Ponsonby, Arthur Augustus William Harry Ponsonby, Baron
+    - Clune, Thomas
+    - Ponsonby, William
+    birthdate: 1871
+    deathdate: 1946
+    gutenberg_agent_id: '50747'
+    url: http://www.gutenberg.org/2009/agents/50747
+    wikipedia: https://en.wikipedia.org/wiki/Arthur_Ponsonby,_1st_Baron_Ponsonby_of_Shulbrede
+description: ''
+gutenberg_issued: '2019-09-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60379'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wealth'
+- !lcsh 'Wealth -- Moral and ethical aspects'
+- !lcc 'HB'
+- GITenberg
+title: The Camel and the Needle's Eye
+url: http://www.gutenberg.org/ebooks/60379
